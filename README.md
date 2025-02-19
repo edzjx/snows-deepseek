@@ -172,3 +172,8 @@ deepseek的代码输出能力完全没有问题，对于需求的分析也很精
 最后给出我最终的代码（我没有加上更多元素）
 
 链接: [https://github.com/edzjx/snows-deepseek](https://github.com/edzjx/snows-deepseek )
+
+
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/ad2b038292994e65aee4b2238b5ba124.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/182406ae0ef54ad39a770256832d2233.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/d2d38e9fc3744ff8a2f8d00e19e36f10.png)
